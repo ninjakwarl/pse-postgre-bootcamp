@@ -1,1 +1,1 @@
-create table finance
+create table finance;
